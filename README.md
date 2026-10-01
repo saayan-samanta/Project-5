@@ -213,8 +213,6 @@ Cluster numbers are model-generated labels and do not inherently represent a ran
 
 ![Engagement Distribution](screenshots/engagement_distribution.png)
 
-*Replace these image paths with your actual chart filenames.*
-
 ## 📶 5. Customer Experience Analysis
 
 ### Methodology
